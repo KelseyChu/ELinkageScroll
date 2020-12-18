@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ELinkageScroll.iml" filepath="$PROJECT_DIR$/ELinkageScroll.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ELinkageScroll.iml" filepath="$PROJECT_DIR$/ELinkageScroll.iml" group="ELinkageScroll" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ELinkageScroll/app" />
     </modules>
   </component>
 </project>
