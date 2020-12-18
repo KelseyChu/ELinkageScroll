@@ -9,12 +9,6 @@
         android:layout_height="match_parent"
         android:scrollbars="vertical">
 
-        <!-- 第1个子view -->
-        <com.baidu.elinkagescroll.view.LWebView
-            android:id="@+id/webview"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
-
         <!-- 第2个子view -->
         <com.baidu.elinkagescroll.view.LLinearLayout
             android:layout_width="match_parent"
@@ -40,6 +34,12 @@
                 android:background="#22ff0000"
                 android:text="LinearLayout"/>
         </com.baidu.elinkagescroll.view.LLinearLayout>
+
+        <!-- 第1个子view -->
+        <com.baidu.elinkagescroll.view.LWebView
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
 
         <!-- 第3个子view -->
         <com.baidu.elinkagescroll.view.LRecyclerView
